@@ -24,7 +24,7 @@ for (let index = 0; index < bt; index++) {
                 handleFunc("crash");
             break;
             case "k":
-                handleFunc("Kick-bass");
+                handleFunc("kick-bass");
             break;
                         
             case "l":
